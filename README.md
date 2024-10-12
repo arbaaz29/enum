@@ -10,11 +10,12 @@ pip3 install -r requirements.txt
 ```bash
 pyhton3 en.py [options] [host]
 ```
+```
 options:
 -U - user lists
 -h - help
 -u - user
 -e - show enumerated
 -s - silent
-
+```
 e.g. - pyhton3 -U users.txt 192.168.73.120
