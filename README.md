@@ -6,7 +6,8 @@ Can take a list of usernames and try them against a server -- looks to find user
 Usage:
 ```bash
 pip3 install -r requirements.txt
-
+```
+```bash
 pyhton3 en.py [options] [host]
 options:
 -U - user lists
@@ -15,4 +16,3 @@ options:
 -e - show enumerated
 -s -silent
 ```
-
